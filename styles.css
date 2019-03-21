@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Black+And+White+Picture');
+body {
+  background-image: url("https://avatars.mds.yandex.net/get-pdb/989257/6a71487a-ccf8-4aab-bce6-b51a0a86aff8/s1200");  
+  background-size: 100%;
+}
+#welcome{
+  font-family: 'Black And White Picture', sans-serif;  
+  color: #5bd3ff;
+  text-align: center;
+}    
+#costumes {
+    border: solid;
+    height:400px;
+    width: 300px;
+}
+#candy {
+  border: solid;
+  height: 400px ;  
+}
+#flex {
+  display: flex;
+  justify-content: center;
+}
+#costume_stuff {
+  height:400px;
+  width: 300px; 
+}
+#choice1{
+   width: 100px; 
+   height: 30px;
+   font-family: 'Black And White Picture', sans-serif;
+   font-size: 20px;
+   color: #f95c39;
+}
+#candy_stuff{
+    height: 400px;
+    width: 400px;
+}
+#choice2{
+   width: 100px; 
+   height: 30px;
+   font-family: 'Black And White Picture', sans-serif;
+   font-size: 20px; 
+   color: #41c6f2;
+}
+#i {
+height: 100px;
+display: flex;
+justify-content: center;
+align-items: flex-end;
+}
